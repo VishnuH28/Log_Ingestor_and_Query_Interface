@@ -10,9 +10,9 @@
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/<VishnuH28>/<Log_Ingestor_and_query_Interface>.git
+   git clone https://github.com/VishnuH28/Log_Ingestor_and_query_Interface.git
 
-   cd <Log_Ingestor_and_Query_Interface>
+   cd Log_Ingestor_and_Query_Interface
 
 3. Install dependencies:
    npm install
